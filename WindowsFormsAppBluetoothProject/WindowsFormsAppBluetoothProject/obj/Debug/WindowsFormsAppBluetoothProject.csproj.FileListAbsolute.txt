@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\bin\Debug\WindowsFormsAppBluetoothProject.exe.config
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\bin\Debug\WindowsFormsAppBluetoothProject.exe
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\bin\Debug\WindowsFormsAppBluetoothProject.pdb
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.exe
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.pdb
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Dell\source\repos\WindowsFormsAppBluetoothProject\WindowsFormsAppBluetoothProject\obj\Debug\WindowsFormsAppBluetoothProject.csproj.CopyComplete
